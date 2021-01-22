@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Initial setup
+
+Create .env file in root folder and add your api key from https://newsapi.org/
+    
+    API_KEY=your_api_key_from.https://newsapi.org
+
+Add tour .env to .gitignore
